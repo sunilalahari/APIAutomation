@@ -5,6 +5,7 @@ String streetName;
 int dNo;
 public void m1(){
 	System.out.print("");
+}
 public Address(String streetName, int dNo) {
 	super();
 	this.streetName = streetName;
