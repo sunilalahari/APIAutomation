@@ -1,0 +1,310 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Sunil",
+    "phone_number": "9963657896",
+    "address": "Sri SaiBaba Street, IND, ONG",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "Telugu",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:28 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "7898e640059dbe45192a5a81c9c285c6",
+    "scope": "APP",
+    "reference": "b504b5cce6b66c7a743a070163544fa7b504b5cce6b66c7a743a070163544fa7",
+    "id": "b504b5cce6b66c7a743a070163544fa7"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Anil",
+    "phone_number": "9963657896",
+    "address": "Sri Shiva Street, IND, ONG",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "English",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:28 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "12d72f06a44e9d9bfce54f3ff34c7f46",
+    "scope": "APP",
+    "reference": "93b271faf04445b87d7974350cdf168393b271faf04445b87d7974350cdf1683",
+    "id": "93b271faf04445b87d7974350cdf1683"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Gunil",
+    "phone_number": "9963657896",
+    "address": "Sri Ramana manharshi Street, IND, Arunachalam",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "Telugu",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:29 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "596d923f955b62d2ce0342c794f2a3ae",
+    "scope": "APP",
+    "reference": "92136cfdb3a8d17034efb486afe6425d92136cfdb3a8d17034efb486afe6425d",
+    "id": "92136cfdb3a8d17034efb486afe6425d"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Sirisha",
+    "phone_number": "9963657896",
+    "address": "Sri Ramana manharshi Street, IND, Arunachalam",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "French",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:29 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "b159a555060ee78af129e0cbcd602241",
+    "scope": "APP",
+    "reference": "9e7cd9ca68d3932b2053af030a6a46b29e7cd9ca68d3932b2053af030a6a46b2",
+    "id": "9e7cd9ca68d3932b2053af030a6a46b2"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Sunil",
+    "phone_number": "9963657896",
+    "address": "Sri SaiBaba Street, IND, ONG",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "Telugu",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:29 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "eb2abbeaab94281f7dd9fe76ad31579e",
+    "scope": "APP",
+    "reference": "b8de559d5b1e82999c327b3ef0bc89ceb8de559d5b1e82999c327b3ef0bc89ce",
+    "id": "b8de559d5b1e82999c327b3ef0bc89ce"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "accuracy": "60",
+    "name": "Lord SHiva",
+    "phone_number": "9963657896",
+    "address": "Sri Shiva Street, IND, ONG",
+    "types": [
+        "ABC",
+        "BCD"
+    ],
+    "website": "https://www.ongole.com",
+    "language": "Sanskrit",
+    "location": {
+        "lat": 677887.54,
+        "lng": -567787.34
+    }
+}
+HTTP/1.1 200 OK
+Date: Thu, 15 Aug 2024 11:03:30 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "7c48f59ff263f9ee2e28e6e0051bfc55",
+    "scope": "APP",
+    "reference": "50717eeb54671b82cb12da54ec918a1650717eeb54671b82cb12da54ec918a16",
+    "id": "50717eeb54671b82cb12da54ec918a16"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 Not Found
+Date: Thu, 15 Aug 2024 11:03:30 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 67
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "msg": "Get operation failed, looks like place_id  doesn't exists"
+}
