@@ -4,6 +4,7 @@ public class Address {
 String streetName;
 int dNo;
 public void m1(){
+
 	System.out.print("Sunil's  .......");
 }
 public Address(String streetName, int dNo) {
